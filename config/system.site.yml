@@ -1,0 +1,14 @@
+uuid: 826ee569-9c41-4a2e-9b42-a7b88910b96d
+name: clancyone
+mail: timothyclancysf@yahoo.com
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+langcode: en
+default_langcode: en
+_core:
+  default_config_hash: AyT9s8OUcclfALRE_imByOMgtZ19eOlqdF6zI3p7yqo
