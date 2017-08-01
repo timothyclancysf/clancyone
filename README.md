@@ -4,4 +4,4 @@
 [![Dashboard clancyone](https://img.shields.io/badge/dashboard-clancyone-yellow.svg)](https://dashboard.pantheon.io/sites/a3d95bf7-f936-4314-817b-efb7410ee8d5#dev/code)
 [![Dev Site clancyone](https://img.shields.io/badge/site-clancyone-blue.svg)](http://dev-clancyone.pantheonsite.io/)
 
-Testing 3:15 June 16th
+Testing 4:00 June 16th
